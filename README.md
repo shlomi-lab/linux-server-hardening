@@ -231,7 +231,7 @@ The objective is to minimize the attack surface while maintaining secure and man
 
 # Author
 
-**Shlomi Eliyahu**
+**Shlomi Green**
 
 Cybersecurity | Linux Security | SOC | System Administration
 
